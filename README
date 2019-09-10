@@ -1,3 +1,26 @@
+This text editor application was developed as a part of the course from the University of California San Diego on Data Structures and Performance.
+I worked on the following classes:
+ DictionaryHashSet.java
+ AutoCompleteDictionaryTrie.java
+ WPTree.java
+ TrieNode.java
+ SpellingSuggest.java
+ MarkovTextGenerator.java
+ DictionaryBST.java
+ DictionaryLL.java
+ NearbyWords.java (edit-distance problem)
+ DictionaryBenchmarking.java
+ MyLinkedList.java
+ MarkovTextGeneratorLoL.java
+ Document.java
+ EfficientDocument.java
+ BasicDocument.java
+ DocumentBenchmarking.java
+ 
+ 
+ 
+
+
 /-------------------------------------------------------------------------
 / Starter Code and GUI Application for Course 2 in the
 / Java Programming: Object Oriented Design of 
